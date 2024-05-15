@@ -9,6 +9,6 @@ Don't setup ffmpeg with command "pip install ffmpg" ,instead visit their officia
 
 The dataset i used is attached as "corona_dat.csv".
 
-The video that is produced after the proggramming process is attached also.
+The video that is produced after the proggramming process is attached as "covid-19alicemilozdemir.mp4" also.
 
 The jupyter notebook file that i used to present the process is attached as "Competing_Graphics.ipynb"
